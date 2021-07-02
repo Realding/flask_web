@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from app import db
+from backend.app import db
 
 
 def to_dict(self):
